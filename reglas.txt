@@ -1,0 +1,3 @@
+SI,Temperatura,ES,Frio,Y,Humedad,ES,Alta,ENTONCES,Velocidad,ES,Baja
+SI,Temperatura,ES,Tibio,Y,Humedad,ES,Media,ENTONCES,Velocidad,ES,Media
+SI,Temperatura,ES,Caliente,Y,Humedad,ES,Baja,ENTONCES,Velocidad,ES,Alta

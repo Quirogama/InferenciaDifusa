@@ -1,0 +1,4 @@
+Temperatura,entrada
+Frio,triangular,0,0,15
+Tibio,triangular,10,20,30
+Caliente,trapezoidal,25,30,40,50
